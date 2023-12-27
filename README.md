@@ -1,2 +1,2 @@
-# NameRoulette-App-Published-Versio
+# NameRoulette-App-Published-Version
 Ez a NameRoulette App Privacy Policy-je.
